@@ -13,8 +13,8 @@ export default function Home() {
   return (
     <Page>
       <NextSeo
-        title="STARTD - Template"
-        description="A TypeScript/Next.js theme that includes everything you need to build amazing landing page!"
+        title="makeitdecentral - the future of blockchain based payments"
+        description="the future of blockchain based web and app payments powered by polygon."
       />
       <Header />
       <main>
